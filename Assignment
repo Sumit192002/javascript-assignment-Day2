@@ -1,0 +1,9 @@
+Create a function that takes two numbers as parameters and returns their sum.
+ans : 
+function sumNumbers(num1, num2) {
+  return num1 + num2;
+}
+
+/*We can use this function by passing two numbers as arguments */
+let result = sumNumbers(5, 3);
+console.log(result); // Output: 8
